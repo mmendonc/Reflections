@@ -1,3 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 It creates one without saving any commits
 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Git prepares the files before commit by putting them in the staging area
